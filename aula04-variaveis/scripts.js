@@ -10,7 +10,8 @@ apresentacao = "Meu nome é "
 + nomeCompleto 
 + " (sou conhecido como " 
 + apelido 
-+ ") e tenho " + idade 
++ ") e tenho " 
++ idade 
 + " anos. Nasci no dia " 
 + dataNascimento 
 + ", na cidade de " 
