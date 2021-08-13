@@ -1,3 +1,10 @@
+/* 
+Exercício:
+Repare na variável apresentacao mostrada a seguir. Ela é uma string que representa um texto que pode mudar conforme o valor de outras variáveis.
+Identifique e crie todas as variáveis necessárias para que o texto de apresentacao seja exibido sem erros. 
+Depois, crie a variável apresentacao exatamente como mostrado a seguir e a imprima da seguinte forma: console.log(apresentacao). 
+*/
+
 let nomeCompleto = "Gleydsonilo"
 let apelido = "Gleydson"
 let idade = 30
